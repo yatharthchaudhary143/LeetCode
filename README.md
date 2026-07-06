@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1288-remove-covered-intervals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -59,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1288-remove-covered-intervals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 <!---LeetCode Topics End-->
