@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Math
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 <!---LeetCode Topics End-->
