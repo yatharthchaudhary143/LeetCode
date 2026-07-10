@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
