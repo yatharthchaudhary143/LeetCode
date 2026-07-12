@@ -124,4 +124,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
