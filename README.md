@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
