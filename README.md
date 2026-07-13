@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0040-combination-sum-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0078-subsets/) | Medium |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -132,4 +134,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
