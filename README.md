@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
@@ -98,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -113,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -120,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -127,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## String
