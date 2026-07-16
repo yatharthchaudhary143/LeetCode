@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
