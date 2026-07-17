@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0383-ransom-note](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Prefix Sum
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0217-contains-duplicate](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0383-ransom-note](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Recursion
@@ -193,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
