@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0520-detect-capital](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
