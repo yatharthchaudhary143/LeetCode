@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0198-house-robber](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0605-can-place-flowers](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
