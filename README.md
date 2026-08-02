@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
+| [0877-stone-game](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0877-stone-game](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0877-stone-game](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
@@ -247,4 +250,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
