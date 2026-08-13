@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0120-triangle](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
