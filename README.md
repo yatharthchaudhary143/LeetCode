@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0771-jewels-and-stones](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -289,4 +291,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
