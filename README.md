@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0217-contains-duplicate](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0383-ransom-note](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0771-jewels-and-stones](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
