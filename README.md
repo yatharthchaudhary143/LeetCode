@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0037-sudoku-solver](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0046-permutations/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Hash Table
