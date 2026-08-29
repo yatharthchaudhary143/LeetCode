@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0695-max-area-of-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -150,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0695-max-area-of-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -158,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0695-max-area-of-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
