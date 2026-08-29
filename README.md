@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
 | [0877-stone-game](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0695-max-area-of-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
