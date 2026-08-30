@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0605-can-place-flowers](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
