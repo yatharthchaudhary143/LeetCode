@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0115-distinct-subsequences](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0520-detect-capital](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0520-detect-capital/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
