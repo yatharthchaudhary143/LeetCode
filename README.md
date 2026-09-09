@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0771-jewels-and-stones](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
