@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0520-detect-capital/) | Easy |
+| [0583-delete-operation-for-two-strings](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0771-jewels-and-stones](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
