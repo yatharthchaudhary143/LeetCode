@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0289-game-of-life](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0289-game-of-life](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0661-image-smoother](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0661-image-smoother/) | Easy |
 | [0695-max-area-of-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0289-game-of-life](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [1260-shift-2d-grid](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Counting Sort
