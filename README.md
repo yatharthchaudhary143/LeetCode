@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1251-average-selling-price](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
