@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1251-average-selling-price](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
