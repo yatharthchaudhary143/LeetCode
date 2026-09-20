@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0626-exchange-seats](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1148-article-views-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1148-article-views-i/) | Easy |
