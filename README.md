@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1251-average-selling-price](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
