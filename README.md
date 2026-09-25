@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0197-rising-temperature/) | Easy |
