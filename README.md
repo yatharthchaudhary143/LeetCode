@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0046-permutations/) | Medium |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0115-distinct-subsequences](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -475,5 +478,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
