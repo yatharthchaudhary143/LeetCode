@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0827-making-a-large-island/) | Hard |
 | [0835-image-overlap](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0721-accounts-merge/) | Medium |
 | [0771-jewels-and-stones](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
