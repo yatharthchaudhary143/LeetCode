@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
