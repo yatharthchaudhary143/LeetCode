@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/yatharthchaudhary143/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [1260-shift-2d-grid](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
