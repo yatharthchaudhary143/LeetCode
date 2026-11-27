@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yatharthchaudhary143/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yatharthchaudhary143/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yatharthchaudhary143/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
